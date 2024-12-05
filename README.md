@@ -1,6 +1,7 @@
 # LaptopPriceList
 
 **Usecases**
+
 **Use Case 1: Data Cleaning and Basic Statistics**
 -Load Dataset into dataframe ,
 -Inspect Data (View the first few rows and get a summary of the DataFrame.),
