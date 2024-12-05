@@ -1,6 +1,6 @@
 # LaptopPriceList
 
-**Usecases**
+**Usecases:**
 
 **Use Case 1: Data Cleaning and Basic Statistics**
 - Load Dataset into dataframe ,
@@ -34,3 +34,6 @@
 - Multiple Aggregations : Perform multiple aggregation operations (e.g., count, mean, median) on price and rating grouped by brand.
   
 - Pivot Tables : Create a pivot table that shows the average price and the number of laptops for each combination of brand and processor brand.
+
+**Platform used:**
+https://colab.research.google.com/
